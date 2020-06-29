@@ -1,0 +1,9 @@
+{
+  "name": "webpack-clear-console",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "git@github.com:ZhangWei-KUMO/webpack-clear-console.git",
+  "author": "ZhangWei-KUMO <kanseefoil@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
